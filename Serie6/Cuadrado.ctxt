@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Cuadrado
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Cuadrado\ here.\r\n\ \r\n\ @author\ Matias\ Grondona\r\n\ @version\ 08/10/18\r\n
+comment1.params=p_punto\ p_lado
+comment1.target=Cuadrado(Punto,\ double)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Cuadrado\r\n\ @param\ \ \ \ \ Punto\ p_punto\r\n\ @param\ \ \ \ \ double\ p_lado\r\n
+comment2.params=
+comment2.target=java.lang.String\ nombreFigura()
+comment3.params=
+comment3.target=void\ caracteristicas()
+numComments=4

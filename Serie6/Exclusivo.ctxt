@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Exclusivo
+comment0.text=\r\n\ Permite\ modelar\ un\ objeto\ de\ tipo\ Exclusivo\ que\ Hereda\ de\ Cargo.\r\n\ \r\n\ @author\ Matias\ Grondona\r\n\ @version\ 09/10/18\r\n
+comment1.params=p_nombreCargo\ p_sueldoBasico\ p_anio\ p_horas\ p_investigacion\ p_extension
+comment1.target=Exclusivo(java.lang.String,\ double,\ int,\ int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Exclusivo\r\n\ @param\ \ String\ p_nombreCargo\r\n\ @param\ \ double\ p_sueldoBasico\r\n\ @param\ \ int\ p_anio\r\n\ @param\ \ int\ p_horas\r\n
+comment2.params=p_horas
+comment2.target=void\ setHorasDeInvestigacion(int)
+comment2.text=\r\n\ Accessors\ de\ la\ clase.\r\n
+comment3.params=p_horas
+comment3.target=void\ setHorasDeExtension(int)
+comment4.params=
+comment4.target=int\ getHorasDeInvestigacion()
+comment5.params=
+comment5.target=int\ getHorasDeExtension()
+comment6.params=
+comment6.target=void\ mostrarCargo()
+comment6.text=\r\n\ Imprime\ en\ pantalla\ con\ un\ formato\ determinado,\ sobre\ escribiendo\ al\ metodo\ de\ la\ super\ clase.\r\n
+numComments=7

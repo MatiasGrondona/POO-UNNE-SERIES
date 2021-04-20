@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Caba\u00F1a
+comment0.text=\r\n\ Permite\ crear\ y\ manipular\ un\ objeto\ Caba\u00F1a\ que\ hereda\ de\ Alojamiento.\r\n\ @author\ Grondona\ Matias\r\n\ @version\ 01/11/18\r\n
+comment1.params=p_nombre\ p_precio\ p_dias\ p_servicios\ p_nroHabitaciones
+comment1.target=Caba\u00F1a(java.lang.String,\ double,\ int,\ java.util.ArrayList,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Caba\u00F1a.\r\n\ @param\ \ String\ p_nombre\r\n\ @param\ \ double\ p_precio\r\n\ @param\ \ int\ p_dias\r\n\ @param\ \ ArrayList<Servicio>\ p_servicios\r\n\ @param\ \ int\ p_nroHabitaciones\r\n
+comment2.params=p_nombre\ p_precio\ p_dias\ p_servicio\ p_nroHabitaciones
+comment2.target=Caba\u00F1a(java.lang.String,\ double,\ int,\ Servicio,\ int)
+comment2.text=\r\n\ Constructor\ for\ objects\ of\ class\ Caba\u00F1a.\r\n\ @param\ \ String\ p_nombre\r\n\ @param\ \ double\ p_precio\r\n\ @param\ \ int\ p_dias\r\n\ @param\ \ Servicio\ p_servicio\r\n\ @param\ \ int\ p_nroHabitaciones\r\n
+comment3.params=p_nombre\ p_precio\ p_dias\ p_nroHabitaciones
+comment3.target=Caba\u00F1a(java.lang.String,\ double,\ int,\ int)
+comment3.text=\r\n\ Constructor\ for\ objects\ of\ class\ Caba\u00F1a.\r\n\ @param\ \ String\ p_nombre\r\n\ @param\ \ double\ p_precio\r\n\ @param\ \ int\ p_dias\r\n\ @param\ \ int\ p_nroHabitaciones\r\n
+comment4.params=p_nro
+comment4.target=void\ setNroHabitaciones(int)
+comment4.text=\r\n\ Accessors\ de\ la\ clase.\r\n
+comment5.params=
+comment5.target=int\ getNroHabitaciones()
+comment6.params=
+comment6.target=double\ costo()
+comment6.text=\r\n\ Re\ escribe\ el\ metodo\ costo\ de\ la\ super\ clase\ y\ a\u00F1ade\ el\ extra\ por\ los\ dias\ de\ alquiler.\r\n\ @Override\r\n\ @return\ double\ retorna\ el\ costo\ total\ de\ alojamiento.\r\n
+comment7.params=p_alojamiento
+comment7.target=int\ contar(java.lang.String)
+comment7.text=\r\n\ evalua\ si\ el\ alojamineto\ es\ de\ tipo\ Caba\u00F1a\ y\ restorna\ 1\ de\ ser\ asi.\r\n\ @Override\r\n\ @return\ retorna\ 1\ si\ el\ alojamiento\ es\ de\ tipo\ caba\u00F1a.\r\n
+comment8.params=
+comment8.target=void\ liquidar()
+comment8.text=\r\n\ Imprime\ en\ pantalla,\ con\ un\ formato\ determinado,\ el\ estado\ de\ los\ atributos\ del\ objeto.\r\n\ @Override\r\n
+numComments=9

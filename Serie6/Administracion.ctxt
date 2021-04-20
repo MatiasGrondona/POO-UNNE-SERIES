@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Administracion
+comment0.text=\r\n\ Modela\ la\ administraci\u00F3n\ de\ un\ jardin\ para\ saber\ el\ presupuesto\ a\ pagar\ por\ pintar\ figuras\ en\ el\ piso\r\n\ \r\n\ @author\ Grondona\ Matias\ \r\n\ @version\ 05/11/18\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
