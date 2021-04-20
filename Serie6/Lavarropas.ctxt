@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Lavarropas
+comment0.text=\r\n\ Permite\ crear\ y\ manipular\ un\ objeto\ Lavarropas\ que\ hereda\ de\ ArtefactoHogar.\r\n\ @author\ Matias\ Grondona\r\n\ @version\ 22/10/18\r\n
+comment1.params=p_marca\ p_precio\ p_stock\ p_programas\ p_kilos\ p_automatico
+comment1.target=Lavarropas(java.lang.String,\ float,\ int,\ int,\ float,\ boolean)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Lavarropas.\r\n\ @param\ \ String\ p_marca\r\n\ @param\ \ float\ p_precio\r\n\ @param\ \ int\ p_stock\r\n\ @param\ int\ p_programas\r\n\ @param\ float\ p_kilos\r\n\ @param\ boolean\ p_automatico\r\n
+comment2.params=p_programas
+comment2.target=void\ setProgramas(int)
+comment2.text=\r\n\ Accessors\ de\ la\ clase.\r\n
+comment3.params=p_kilos
+comment3.target=void\ setKilos(float)
+comment4.params=p_automatico
+comment4.target=void\ setAutomatico(boolean)
+comment5.params=
+comment5.target=int\ getProgramas()
+comment6.params=
+comment6.target=float\ getKilos()
+comment7.params=
+comment7.target=boolean\ getAutomatico()
+comment8.params=p_cuotas\ p_interes
+comment8.target=float\ creditoConAdicional(int,\ float)
+comment8.text=\r\n\ redefinicion\ del\ metodo\ creditoConAdicional,\ retorna\ el\ costo\ total\ del\ Artefacto\ con\ el\ interes,\ teniendo\ en\ cuenta,\ si\ es\ automatico\ o\ no.\r\n\ return\ @float\ retorna\ el\ costo\ total\ del\ Artefacto\ con\ el\ interes\r\n
+comment9.params=
+comment9.target=void\ imprimir()
+comment9.text=\r\n\ imprime\ en\ pantalla,\ con\ un\ formato\ determinado,\ el\ estado\ de\ los\ atributos\ del\ objeto.\r\n
+numComments=10

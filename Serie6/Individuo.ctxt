@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Individuo
+comment1.params=p_nombre\ p_fecha\ p_persona
+comment1.target=Individuo(java.lang.String,\ java.util.Calendar,\ Persona)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Individuo.\r\n\ @param\ String\ p_nombre\r\n\ @param\ Calendar\ p_fecha\r\n\ @param\ Persona\ p_persona\r\n
+comment2.params=p_persona
+comment2.target=void\ setPersona(Persona)
+comment2.text=\r\n\ Accessors\ de\ la\ clase.\r\n
+comment3.params=
+comment3.target=Persona\ getPersona()
+comment4.params=
+comment4.target=void\ mostrar()
+comment4.text=\r\n\ Imprime\ en\ pantalla\ los\ datos\ del\ Individuo.\r\n
+comment5.params=
+comment5.target=double\ entrada()
+comment5.text=\r\n\ Retorna\ el\ costo\ de\ la\ entrada\ para\ el\ individuo.\r\n\ @return\ double\ retorna\ el\ costo\ de\ la\ entrada.\r\n
+comment6.params=p_fecha\ p_visitante
+comment6.target=void\ listarPorFecha(java.util.Calendar,\ java.lang.String)
+comment6.text=\r\n\ Imprime\ en\ pantalla\ los\ datos\ de\ los\ integrantes\ de\ un\ tipo\ y\ fecha\ determinado.\r\n
+comment7.params=
+comment7.target=java.lang.String\ tipoVisitante()
+comment7.text=\r\n\ Retorna\ una\ cadena\ de\ carracteres\ con\ el\ tipo\ del\ objeto.\r\n\ @return\ String\ retorna\ una\ cadena\ de\ caracteres\ con\ el\ siguiente\ contenido\ "Individuo".\r\n
+numComments=8

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=SemiExclusivo
+comment0.text=\r\n\ \ Permite\ modelar\ un\ objeto\ de\ tipo\ SemiExclusivo\ que\ Hereda\ de\ Cargo.\r\n\ \r\n\ @author\ Matias\ Grondona\r\n\ @version\ 09/10/18\r\n
+comment1.params=p_nombreCargo\ p_sueldoBasico\ p_anio\ p_horas\ p_investigacion
+comment1.target=SemiExclusivo(java.lang.String,\ double,\ int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ SemiExclusivo\r\n\ @param\ \ String\ p_nombreCargo\r\n\ @param\ \ double\ p_sueldoBasico\r\n\ @param\ \ int\ p_anio\r\n\ @param\ \ int\ p_horas\r\n
+comment2.params=p_horas
+comment2.target=void\ setHorasDeInvestigacion(int)
+comment2.text=\r\n\ Accessors\ de\ la\ clase.\r\n
+comment3.params=
+comment3.target=int\ getHorasDeInvestigacion()
+comment4.params=
+comment4.target=void\ mostrarCargo()
+comment4.text=\r\n\ Imprime\ en\ pantalla\ con\ un\ formato\ determinado,\ sobre\ escribiendo\ al\ metodo\ de\ la\ super\ clase.\r\n
+numComments=5

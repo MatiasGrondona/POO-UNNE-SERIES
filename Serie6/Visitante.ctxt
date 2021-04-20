@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Visitante
+comment1.params=p_nombre\ p_fecha
+comment1.target=Visitante(java.lang.String,\ java.util.Calendar)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Visitante.\r\n\ @param\ String\ p_nombre\r\n\ @param\ Calendar\ p_fecha\r\n\ @param\ Persona\ p_persona\r\n
+comment2.params=p_nombre
+comment2.target=void\ setNombre(java.lang.String)
+comment2.text=\r\n\ Accessors\ de\ la\ clase.\r\n
+comment3.params=p_fecha
+comment3.target=void\ setFechaVisita(java.util.Calendar)
+comment4.params=
+comment4.target=java.lang.String\ getNombre()
+comment5.params=
+comment5.target=java.util.Calendar\ getFechaVisita()
+comment6.params=
+comment6.target=void\ mostrar()
+comment6.text=\r\n\ metodo\ abstracto\ que\ debe\ ser\ redefinido\ en\ las\ clases\ hijas.\r\n
+comment7.params=
+comment7.target=double\ entrada()
+comment7.text=\r\n\ metodo\ abstracto\ que\ debe\ ser\ redefinido\ en\ las\ clases\ hijas.\r\n
+comment8.params=p_fecha\ p_visitante
+comment8.target=void\ listarPorFecha(java.util.Calendar,\ java.lang.String)
+comment8.text=\r\n\ metodo\ abstracto\ que\ debe\ ser\ redefinido\ en\ las\ clases\ hijas.\r\n
+comment9.params=
+comment9.target=java.lang.String\ tipoVisitante()
+comment9.text=\r\n\ metodo\ abstracto\ que\ debe\ ser\ redefinido\ en\ las\ clases\ hijas.\r\n
+numComments=10
