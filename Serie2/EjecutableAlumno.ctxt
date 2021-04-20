@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=EjecutableAlumno
+comment0.text=\r\n\ Permite\ enviar\ mensajes\ a\ la\ clase\ Alumno\ con\ los\ parametros\ ingresados\ como\ parametros\ del\ main.\r\n\ \r\n\ @author\ Matias\ Grondona\ \r\n\ @version\ 16/08/18\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
