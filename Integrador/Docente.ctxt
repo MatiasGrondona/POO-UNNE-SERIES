@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Docente
+comment1.params=p_dniSocio\ p_nombre\ p_area
+comment1.target=Docente(int,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ de\ la\ clase.\r\n\ @param\ p_dniSocio\:\ DNI\ del\ Docente.\r\n\ @param\ p_nombre\:\ \ \ Nombre\ del\ Docente.\r\n\ @param\ p_area\:\ \ \ \ \ Area\ del\ Docente.\r\n
+comment2.params=p_area
+comment2.target=void\ setArea(java.lang.String)
+comment2.text=\r\n\ a\u00F1ade\ el\ area\ del\ docente\r\n\ @param\ String\ p_area\ \r\n
+comment3.params=
+comment3.target=java.lang.String\ getArea()
+comment3.text=\r\n\ devuelve\ el\ area\ del\ docente\r\n\ @return\ String.\r\n
+comment4.params=
+comment4.target=boolean\ esResponsable()
+comment4.text=\r\n\ verifica\ si\ el\ Docente\ nunca\ tuvo\ ni\ tiene\ un\ pr\u00E9stamo\ vencido.\r\n\ \ @return\ boolean\r\n
+comment5.params=p_dias
+comment5.target=void\ agregarDiasDePrestamo(int)
+comment5.text=\r\n\ verifica\ si\ el\ docente\ es\ responsable,si\ es\ asi,\ adiciona\ dias\ de\ prestamo\ al\ docente\r\n\ @param\ int\ p_dias\r\n
+comment6.params=
+comment6.target=java.lang.String\ soyDeLaClase()
+comment6.text=\r\n\ devuelve\ "Docente".\r\n\ @return\ String.\r\n
+numComments=7
