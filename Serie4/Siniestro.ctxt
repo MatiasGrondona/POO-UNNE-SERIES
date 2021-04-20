@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Siniestro
+comment1.params=p_fecha\ p_da\u00F1o
+comment1.target=Siniestro(java.util.Calendar,\ double)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Siniestro\r\n\ @param\ Calendar\ p_fecha\r\n\ @param\ double\ p_da\u00F1o\r\n
+comment2.params=p_fecha
+comment2.target=void\ setFecha(java.util.Calendar)
+comment2.text=\r\n\ Setters\ y\ Getters\ de\ la\ clase;\r\n
+comment3.params=p_da\u00F1o
+comment3.target=void\ setPorcentajeDa\u00F1o(double)
+comment4.params=
+comment4.target=java.util.Calendar\ getFecha()
+comment5.params=
+comment5.target=double\ getPorcentajeDa\u00F1o()
+comment6.params=p_valorAsegurado
+comment6.target=double\ totalDa\u00F1o(double)
+comment6.text=\r\n\ Retorna\ el\ costo\ total\ de\ indemnizacion,\ realiza\ el\ calculo\ con\ el\ porcentaje\ de\ da\u00F1o\ y\ el\ valor\ asegurado.\r\n\ \r\n\ @param\ double\ p_valorAsegurado\r\n\ @return\ double\ Retorna\ el\ costo\ total\ de\ indemnizacion\r\n
+numComments=7

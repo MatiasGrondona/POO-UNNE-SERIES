@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Localidad
+comment0.text=\r\n\ Permite\ crear\ y\ manipular\ un\ objeto\ de\ tipo\ Localidad.\r\n\ \r\n\ @author\ Matias\ Grondona\r\n\ @version\ 02/09/18\r\n
+comment1.params=p_nombre\ p_provincia
+comment1.target=Localidad(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Localidad\r\n\ \r\n\ @param\ String\ p_nombre\r\n\ @param\ String\ p_localidad\r\n
+comment2.params=p_nombre
+comment2.target=void\ setNombre(java.lang.String)
+comment2.text=\r\n\ Setters\ de\ la\ clase\ Localidad,\ cambian\ es\ estado\ de\ los\ atributos\ del\ objeto\ instanciado.\r\n
+comment3.params=p_provincia
+comment3.target=void\ setProvincia(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getNombre()
+comment4.text=\r\n\ Getters\ de\ la\ clase\ Localidad,\ retornan\ el\ estado\ de\ los\ atributos\ del\ objeto\ instanciado.\r\n
+comment5.params=
+comment5.target=java.lang.String\ getProvincia()
+comment6.params=
+comment6.target=java.lang.String\ mostrar()
+comment6.text=\r\n\ Retorna\ el\ estado\ de\ los\ atributos\ del\ objeto\ con\ un\ formato\ determinado.\r\n\ \r\n\ @return\ retorna\ un\ String\ con\ el\ estado\ de\ los\ atributos\ del\ objeto.\r\n
+numComments=7

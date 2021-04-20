@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=UnidadDeRiesgo
+comment1.params=p_agricultor\ p_cultivo\ p_fecha
+comment1.target=UnidadDeRiesgo(java.lang.String,\ java.lang.String,\ java.util.Calendar)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ UnidadDeRiesgo\r\n\ @param\ String\ p_agricultor\r\n\ @param\ String\ p_cultivo\r\n\ @param\ Calendar\ p_fecha\r\n
+comment2.params=p_agricultor
+comment2.target=void\ setAgricultor(java.lang.String)
+comment2.text=\r\n\ Accesor\ de\ la\ clase.\r\n
+comment3.params=p_cultivo
+comment3.target=void\ setCultivo(java.lang.String)
+comment4.params=p_fecha
+comment4.target=void\ setFechaCosecha(java.util.Calendar)
+comment5.params=
+comment5.target=java.lang.String\ getAgricultor()
+comment6.params=
+comment6.target=java.lang.String\ getCultivo()
+comment7.params=
+comment7.target=java.util.Calendar\ getFechaCosecha()
+comment8.params=
+comment8.target=void\ mostrarDetalle()
+comment8.text=\r\n\ Imprime\ en\ pantalla,\ con\ un\ formato\ detrminado,\ el\ estado\ de\ los\ atributos.\r\n
+numComments=9
