@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Hospital
+comment0.text=\r\n\ Permite\ crear\ y\ manipular\ un\ objeto\ de\ tipo\ Hospital.\r\n\ \r\n\ @author\ Matias\ Grondona\r\n\ @version\ 02/09/18\r\n
+comment1.params=p_hospital\ p_director
+comment1.target=Hospital(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Hospital\r\n\ \r\n\ @param\ String\ p_hospital\r\n\ @param\ String\ p_director\r\n
+comment2.params=p_hospital
+comment2.target=void\ setNombreHospital(java.lang.String)
+comment2.text=\r\n\ Setters\ de\ la\ clase\ Hospital,\ cambian\ es\ estado\ de\ los\ atributos\ del\ objeto\ instanciado.\r\n
+comment3.params=p_director
+comment3.target=void\ setNombreDirector(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getNombreHospital()
+comment4.text=\r\n\ Getters\ de\ la\ clase\ Hospital,\ retornan\ el\ estado\ de\ los\ atributos\ del\ objeto\ instanciado.\r\n
+comment5.params=
+comment5.target=java.lang.String\ getNombreDirector()
+comment6.params=p_paciente
+comment6.target=void\ consultaDatosFiliatorios(Paciente)
+comment6.text=\r\n\ Imprime\ en\ pantalla,\ con\ un\ formato\ determinado,\ el\ estado\ de\ los\ atributos\ del\ objeto.\r\n\ \r\n\ @param\ Paciente\ p_paciente\r\n
+numComments=7

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=RegistroCivil
+comment0.text=\r\n\ Permite\ crear\ y\ manipular\ objetos\ de\ tipo\ Hombre\ y\ Mujer.\r\n\ \r\n\ @author\ Matias\ Grondona\r\n\ @version\ 05/09/18\r\n\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

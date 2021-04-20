@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Escuela
+comment0.text=\r\n\ Permite\ crear\ y\ modificar\ objetos\ de\ tipo\ Escuela.\r\n\ \r\n\ @author\ Matias\ Grondona\ \r\n\ @version\ 28/08/18\r\n
+comment1.params=p_nombre\ p_domicilio\ p_director
+comment1.target=Escuela(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Docente.\r\n\ @param\ String\ p_nombre\r\n\ @param\ String\ p_domicilio\r\n\ @param\ String\ p_director\r\n
+comment2.params=p_nombre
+comment2.target=void\ setNombre(java.lang.String)
+comment2.text=\r\n\ Setters\ de\ la\ clase\ Escuela,\ permiten\ cambiar\ el\ estado\ de\ los\ atributos\ del\ objeto.\r\n
+comment3.params=p_domicilio
+comment3.target=void\ setDomicilio(java.lang.String)
+comment4.params=p_director
+comment4.target=void\ setDirector(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getNombre()
+comment5.text=\r\n\ Getters\ de\ la\ clase\ Escuela,\ retornan\ el\ estado\ de\ los\ atributos\ del\ objeto.\r\n
+comment6.params=
+comment6.target=java.lang.String\ getDomicilio()
+comment7.params=
+comment7.target=java.lang.String\ getDirector()
+comment8.params=p_docente
+comment8.target=void\ imprimir(Docente)
+comment8.text=\r\n\ Imprime\ en\ pantalla\ el\ estado\ de\ los\ atributos\ del\ objeto,\ siguiendo\ un\ formato\ determinado.\r\n\ \r\n\ @param\ \ Docente\ p_docente\ \ recibe\ un\ objeto\ de\ tipo\ docente\ como\ parametro.\r\n
+numComments=9
